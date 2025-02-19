@@ -158,6 +158,8 @@ button{
 }
 
 .sidy-by-side{
+  display: inline-block;
+  padding-right: 100px;
 }
 .emphasize {
   border-left: 5px solid #27AE60;
