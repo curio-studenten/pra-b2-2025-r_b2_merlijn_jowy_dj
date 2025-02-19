@@ -159,6 +159,17 @@ button{
 
 .sidy-by-side{
 }
+.emphasize {
+  border-left: 5px solid #27AE60;
+  box-shadow: 1px 0px 5px #27AE60;
+  padding: 1em;
+}
+.emphasize h2 {
+  margin: 0;
+  border-left: none;
+  text-align: center;
+}
+
 
 .description{
   flex: 1;
